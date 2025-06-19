@@ -26,11 +26,6 @@ seguem abaixo.
 - Conteúdo gerado via ChatGPT
 - Imagens geradas via Microsoft Copilot
 
-## 📚 Materiais
-
-- Imagens utilizadas em `assets`
-- ebook gerado  em `output`
-
 ## 👨‍💻 Expert
 
 <p>
