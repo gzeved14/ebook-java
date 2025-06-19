@@ -1,0 +1,3 @@
+git add output/ebook - java IA output.pdf
+git commit -m "Adiciona o PDF do ebook na pasta output"
+git push
